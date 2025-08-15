@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/jmanish45/leetcode-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0907-koko-eating-bananas](https://github.com/jmanish45/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -58,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/jmanish45/leetcode-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
