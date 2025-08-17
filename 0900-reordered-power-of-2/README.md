@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reordered-power-of-2">900. Reordered Power of 2</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code>. We reorder the digits in any order (including the original order) such that the leading digit is not zero.</p>
+<h2><a href="https://leetcode.com/problems/reordered-power-of-2">869. Reordered Power of 2</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code>. We reorder the digits in any order (including the original order) such that the leading digit is not zero.</p>
 
 <p>Return <code>true</code> <em>if and only if we can do this so that the resulting number is a power of two</em>.</p>
 
