@@ -1,50 +1,29 @@
 class Solution {
 public:
-    vector<int> nextpermutation(vector<int> & nums) {
-        int n = nums.size();
-        int piv = -1;
-        for(int i = n-2; i>=0; i--) {
-            if(nums[i]<nums[i+1]) {
-                piv = i;
-                break;
-            }
-        }
-        if(piv==-1) {
-             reverse(nums.begin(), nums.end());
-             return nums;
-        }
-        
-        
-        reverse(nums.begin()+piv+1, nums.end());
+    set<vector<int>> st;
+    void getper(vector<int> &nums, int idx, vector<vector<int>> &ans) {
        
-        int j = -1;
-        for(int i = piv+1 ;i<n;i++) {
-            if(nums[piv]<nums[i]) {
-                j = i;
-                break;
+        if(idx==nums.size()) {
+            if(st.find(nums)==st.end()) {
+                st.insert(nums);
+                ans.push_back(nums);
             }
+            
+            return;
         }
         
-        int temp = nums[piv];
-        nums[piv] = nums[j];
-        nums[j] = temp;
-        return nums;
+        for(int i = idx;  i<nums.size();  i++) {
+            
+            swap(nums[idx], nums[i]);
+            getper(nums, idx+1, ans);
+            swap(nums[idx], nums[i]);
+        }
+
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        set <vector<int>> st;
-        sort(nums.begin(), nums.end());
         vector<vector<int>> ans;
-        vector<int> start = nums;
-        st.insert(start);
-        vector<int> np = nextpermutation(nums);
-        while(np!=start) {
-            st.insert(np);
-            np = nextpermutation(np);
-            
-        }
-        for(auto ele : st)  {
-            ans.push_back(ele);
-        }
+        sort(nums.begin(), nums.end());
+        getper(nums, 0, ans);
         return ans;
     }
 };
