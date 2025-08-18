@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
+## Database
+|  |
+| ------- |
+| [1161-project-employees-i](https://github.com/jmanish45/leetcode-practice/tree/master/1161-project-employees-i) |
 <!---LeetCode Topics End-->
