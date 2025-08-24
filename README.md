@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jmanish45/leetcode-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0907-koko-eating-bananas](https://github.com/jmanish45/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0907-koko-eating-bananas](https://github.com/jmanish45/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 ## Stack
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Design
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jmanish45/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
