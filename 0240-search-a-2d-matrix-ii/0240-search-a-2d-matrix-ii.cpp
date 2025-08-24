@@ -6,8 +6,9 @@ public:
         int j = n-1;
         int i = 0;
         while(i<m && j>=0) {
-            if(matrix[i][j] == target) return true;
-            else if(matrix[i][j] > target) j--;
+            int val = matrix[i][j];
+            if(val == target) return true;
+            else if(val > target) j--;
             else {
                 i++;
             }
