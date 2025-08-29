@@ -13,7 +13,7 @@ public:
         vector<int> list[v];
         for(int i = 0; i<v; i++){
             for(int j = 0; j<v; j++){
-                if(matrix[i][j]==1 && i!=j) {
+                if(matrix[i][j]==1 && i!=j && i<j) {
                     list[i].push_back(j);
                     list[j].push_back(i);
                 }
