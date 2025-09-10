@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/jmanish45/leetcode-practice/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/jmanish45/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/jmanish45/leetcode-practice/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jmanish45/leetcode-practice/tree/master/0733-flood-fill) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0047-permutations-ii) |
+| [0274-h-index](https://github.com/jmanish45/leetcode-practice/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 ## Hash Table
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/jmanish45/leetcode-practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
