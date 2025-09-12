@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/jmanish45/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/jmanish45/leetcode-practice/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0583-delete-operation-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jmanish45/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jmanish45/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
