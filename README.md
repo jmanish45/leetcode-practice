@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/jmanish45/leetcode-practice/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/jmanish45/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/jmanish45/leetcode-practice/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
