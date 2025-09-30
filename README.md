@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jmanish45/leetcode-practice/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/jmanish45/leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jmanish45/leetcode-practice/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/jmanish45/leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
