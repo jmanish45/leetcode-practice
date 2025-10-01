@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jmanish45/leetcode-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
+| [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
 | [0583-delete-operation-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/jmanish45/leetcode-practice/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jmanish45/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
