@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jmanish45/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/jmanish45/leetcode-practice/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/jmanish45/leetcode-practice/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jmanish45/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jmanish45/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/jmanish45/leetcode-practice/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jmanish45/leetcode-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/jmanish45/leetcode-practice/tree/master/1036-rotting-oranges) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jmanish45/leetcode-practice/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/jmanish45/leetcode-practice/tree/master/0289-game-of-life) |
 ## Monotonic Stack
 |  |
 | ------- |
