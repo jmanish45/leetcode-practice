@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/jmanish45/leetcode-practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/jmanish45/leetcode-practice/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/jmanish45/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/jmanish45/leetcode-practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/jmanish45/leetcode-practice/tree/master/0289-game-of-life) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jmanish45/leetcode-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/jmanish45/leetcode-practice/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/jmanish45/leetcode-practice/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jmanish45/leetcode-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jmanish45/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Number Theory
 |  |
