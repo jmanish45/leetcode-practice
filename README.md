@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/jmanish45/leetcode-practice/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/jmanish45/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jmanish45/leetcode-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/jmanish45/leetcode-practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/jmanish45/leetcode-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jmanish45/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jmanish45/leetcode-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jmanish45/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jmanish45/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jmanish45/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/jmanish45/leetcode-practice/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/jmanish45/leetcode-practice/tree/master/0274-h-index) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jmanish45/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jmanish45/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jmanish45/leetcode-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/jmanish45/leetcode-practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
