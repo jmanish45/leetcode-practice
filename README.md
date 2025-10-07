@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jmanish45/leetcode-practice/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/jmanish45/leetcode-practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jmanish45/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/jmanish45/leetcode-practice/tree/master/0130-surrounded-regions) |
