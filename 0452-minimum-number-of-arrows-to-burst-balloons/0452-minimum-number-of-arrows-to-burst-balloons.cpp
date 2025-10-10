@@ -6,7 +6,7 @@ public:
         sort(points.begin(), points.end());
         //[[9,12],[1,10],[4,11],[8,12],[3,9],[6,9],[6,7]]
         //[[1,10],[3,9],[4,11],[6,7],[6,9][8,12],[9,12]]
-        int count = 0;
+        int count = 1;
         int start = points[0][1];
         for(int i = 1; i<n; i++) {
             if(points[i][0]>start) {
@@ -17,7 +17,7 @@ public:
                 start = min(start, points[i][1]);
             }
         }
-        count++;
+        
         return count;
     }
 };
