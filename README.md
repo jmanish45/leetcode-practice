@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/jmanish45/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/jmanish45/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jmanish45/leetcode-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jmanish45/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/jmanish45/leetcode-practice/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/jmanish45/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
+| [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jmanish45/leetcode-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Greedy
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
+| [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jmanish45/leetcode-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/jmanish45/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jmanish45/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0883-car-fleet](https://github.com/jmanish45/leetcode-practice/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/jmanish45/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
+| [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
 <!---LeetCode Topics End-->
