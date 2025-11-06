@@ -1,66 +1,37 @@
 class LRUCache {
-    class Node {
-    public:
-        int key, value;
-        Node* next;
-        Node* prev;
-        Node(int key, int value) {
-            this->key = key;
-            this->value = value;
-        }
-    };
-
 public:
-    unordered_map<int, Node*> mp;
-    Node* head = new Node(-1, -1);
-    Node* tail = new Node(-1, -1);
-    int capacity_;
-    LRUCache(int capacity) {
-        capacity_ = capacity;
-        head->next = tail;
-        tail->prev = head;
-    }
-    void deleteNode(Node* node) {
-        node->prev->next = node->next;
-        node->next->prev = node->prev;
-        return;
-    }
-    void addAfterHead(Node* node) {
-        node->next = head->next;
-        node->prev = head;
-        head->next = node;
-        node->next->prev = node;
-    }
-    int get(int key) {
-        int ans = -1;
-        if (mp.find(key) != mp.end()) {
-            Node* ansNode = mp[key];
-            ans = ansNode->value;
-            deleteNode(ansNode);
-            addAfterHead(ansNode);
-        }
-        return ans;
-    }
+    list<pair<int, int>> li;
+    int n;
+    unordered_map<int , list<pair<int , int> >:: iterator> mp;
 
+    LRUCache(int capacity) {
+        n = capacity;
+    }
+    
+    int get(int key) {
+        if(!mp.count(key)) return -1;
+        auto it = mp[key];
+        int value = it->second;
+        li.erase(it);
+        li.push_front({key, value});
+        mp[key] = li.begin();
+        return value;
+    }
+    
     void put(int key, int value) {
-        if (mp.find(key) != mp.end()) {
-            Node* updateNode = mp[key];
-            updateNode->value = value;
-            deleteNode(updateNode);
-            addAfterHead(updateNode);
-            return;
-        } else if (mp.size() == capacity_) {
-            mp.erase(tail->prev->key);
-            deleteNode(tail->prev);
+        if(mp.count(key)) {
+            li.erase(mp[key]);
+
         }
-        Node* newNode = new Node(key, value);
-        mp[key] = newNode;
-        addAfterHead(newNode);
-        return;
+        else if(li.size()==n) {
+            mp.erase(li.back().first);
+            li.pop_back();
+        }
+        li.push_front({key, value});
+        mp[key] = li.begin();
+
     }
 };
-
-// auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
 
 /**
  * Your LRUCache object will be instantiated and called as such:
