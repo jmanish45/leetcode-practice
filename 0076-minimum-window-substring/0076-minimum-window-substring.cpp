@@ -3,44 +3,47 @@ public:
     string minWindow(string s, string t) {
         int m = s.length();
         int n = t.length();
-        if (n > m) return "";
+        if(n>m) return "";
 
-        unordered_map<char, int> need;   // frequency of chars in t
-        for (char c : t) need[c]++;
-
-        unordered_map<char, int> window; // frequency of chars in current window
-        int have = 0, needCount = need.size(); 
-
-        int left = 0;
-        int minLen = m + 1;
-        int start = 0; // to store best window start index
-
-        for (int right = 0; right < m; right++) {
-            char c = s[right];
-            window[c]++;
-
-            if (need.find(c) != need.end() && window[c] == need[c]) {
-                have++;
-            }
-
-            // shrink the window while valid
-            while (have == needCount) {
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
-                    start = left;
-                }
-
-                // pop from left
-                char lChar = s[left];
-                window[lChar]--;
-                if (need.find(lChar) != need.end() && window[lChar] < need[lChar]) {
-                    have--;
-                }
-                left++;
-            }
+        unordered_map<char, int> need;
+        for(char c : t) {
+            need[c]++;
         }
+        int req = need.size();
+        int i = 0;
+        int got = 0;
+        int minlen = m+1;
+        int start = 0;
+        unordered_map<char, int> window;
+        for(int j=0; j<m ;j++) {
+            char c = s[j];
+            window[c]++;
+            if(need.find(c)!=need.end() &&  window[c]==need[c]) {
+                got++;
+            }
+            while(got==req) {
+                if(minlen > j-i+1) {
+                    minlen = j-i+1;
+                    start = i;
+                }    
+                char l = s[i];
+                window[l]--;
+                if((need.find(l)!=need.end()) && need[l]>window[l]) {
+                    got--;
+                }  
+                
+                
 
-        return minLen == m + 1 ? "" : s.substr(start, minLen);
+                i++;
+
+            }
+            
+            
+            
+        }
+        if(minlen==m+1) return "";
+        return  s.substr(start, minlen);
+
     }
 };
 
