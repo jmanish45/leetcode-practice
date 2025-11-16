@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/jmanish45/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/jmanish45/leetcode-practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/jmanish45/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/jmanish45/leetcode-practice/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/jmanish45/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jmanish45/leetcode-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/jmanish45/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jmanish45/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
