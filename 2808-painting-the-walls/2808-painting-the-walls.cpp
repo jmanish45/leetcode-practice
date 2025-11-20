@@ -1,12 +1,16 @@
 class Solution {
 public:
     int n;
-    int t[501][501];
+    vector<vector<int>> t;
+        // idx tells where we are.
+        // remain tells how much is left.
+        // Together they uniquely define the subproblem.
+        // That’s why t[idx][remain] is the DP state.
 
     int solve(int idx, int remain, vector<int>& cost, vector<int>& time) {
         
         if(remain<=0) {
-            return 0;       //this condition should be checked first so that if we can lso check for the next indexes further till idx<n
+            return 0;       
         }
         if(idx>=n) {
             return 100000000001;
@@ -20,7 +24,7 @@ public:
     int paintWalls(vector<int>& cost, vector<int>& time) {
         
         n = cost.size();
-        memset(t, -1, sizeof(t));
+        t.assign(n + 1, vector<int>(n + 1, -1));
         return solve(0, n, cost, time);
     }
 };
