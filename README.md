@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jmanish45/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2808-painting-the-walls](https://github.com/jmanish45/leetcode-practice/tree/master/2808-painting-the-walls) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jmanish45/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Number Theory
 |  |
 | ------- |
