@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jmanish45/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jmanish45/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/jmanish45/leetcode-practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jmanish45/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jmanish45/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jmanish45/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jmanish45/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/jmanish45/leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/jmanish45/leetcode-practice/tree/master/0224-basic-calculator) |
 ## Trie
