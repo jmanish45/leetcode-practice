@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jmanish45/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jmanish45/leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/jmanish45/leetcode-practice/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/jmanish45/leetcode-practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/jmanish45/leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jmanish45/leetcode-practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/jmanish45/leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/jmanish45/leetcode-practice/tree/master/0202-happy-number) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jmanish45/leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jmanish45/leetcode-practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/jmanish45/leetcode-practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/jmanish45/leetcode-practice/tree/master/0203-remove-linked-list-elements) |
