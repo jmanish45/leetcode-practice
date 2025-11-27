@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/jmanish45/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jmanish45/leetcode-practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2707-extra-characters-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2808-painting-the-walls](https://github.com/jmanish45/leetcode-practice/tree/master/2808-painting-the-walls) |
 ## Two Pointers
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jmanish45/leetcode-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/2460-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jmanish45/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jmanish45/leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jmanish45/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/jmanish45/leetcode-practice/tree/master/0907-koko-eating-bananas) |
+| [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
+| [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jmanish45/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
