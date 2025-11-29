@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jmanish45/leetcode-practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jmanish45/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 ## Backtracking
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/jmanish45/leetcode-practice/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jmanish45/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
+| [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [0883-car-fleet](https://github.com/jmanish45/leetcode-practice/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/0912-sort-an-array) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jmanish45/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jmanish45/leetcode-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jmanish45/leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
@@ -440,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/0912-sort-an-array) |
 | [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
 ## Doubly-Linked List
