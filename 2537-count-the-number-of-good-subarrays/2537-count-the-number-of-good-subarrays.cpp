@@ -2,24 +2,20 @@ class Solution {
 public:
     long long countGood(vector<int>& nums, int k) {
         int n = nums.size();
-        long long count = 0;
+        long long count = 0; //subarray count
+        int pairs = 0;
         unordered_map<int, long long> mp;
-        long long paircount = 0;
         int l = 0;
         int r = 0;
-        while (r < n) {
-            paircount+=mp[nums[r]];
+        while(r<n) {
+            pairs+=mp[nums[r]];
             mp[nums[r]]++;
-            
-            while(paircount>=k) {
+            while(pairs>=k) {
                 count+=(n-r);
-
                 mp[nums[l]]--;
-                paircount -= mp[nums[l]];
+                pairs-=mp[nums[l]];
                 l++;
             }
-            
-
             r++;
         }
         return count;
