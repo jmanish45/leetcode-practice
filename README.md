@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/jmanish45/leetcode-practice/tree/master/0176-second-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/jmanish45/leetcode-practice/tree/master/0196-delete-duplicate-emails) |
 | [1161-project-employees-i](https://github.com/jmanish45/leetcode-practice/tree/master/1161-project-employees-i) |
 ## Matrix
 |  |
