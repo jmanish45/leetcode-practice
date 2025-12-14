@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
+| [0905-sort-array-by-parity](https://github.com/jmanish45/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/2460-apply-operations-to-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/jmanish45/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jmanish45/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jmanish45/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/jmanish45/leetcode-practice/tree/master/0883-car-fleet) |
+| [0905-sort-array-by-parity](https://github.com/jmanish45/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/jmanish45/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
 | [0912-sort-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/0912-sort-an-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [0883-car-fleet](https://github.com/jmanish45/leetcode-practice/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
+| [0905-sort-array-by-parity](https://github.com/jmanish45/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
