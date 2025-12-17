@@ -48,3 +48,42 @@ public:
         return ans;
     }
 };
+
+// class Solution {
+// public:
+//     vector<int> findSubstring(string s, vector<string>& words) {
+//         int n = s.size();
+//         int m = words.size();
+//         int w = words[0].size();
+//         int t = m*w;
+//         unordered_map<string, int> mp;
+//         vector<int> ans;
+//         for(int i = 0;i<m; i++){
+//             mp[words[i]]++;
+//         }
+//         int  count = 0;
+//         for(int i = 0; i<=n-t; i++) {
+//             unordered_map<string, int> mpp = mp;
+//             int j = i;
+//             count=0;
+//             while(j<t+i) {
+                 
+//                 string sub = s.substr(j,w);
+                
+//                 if(mpp[sub]>0) {
+//                     mpp[sub]--;
+//                     count++;
+//                     if(mpp[sub]==0) mpp.erase(sub);
+//                 }
+//                 else {
+//                    break; 
+//                 }
+                
+//                 j+=w;
+//             }
+//             if(count==m) ans.push_back(i);
+//         }
+//         return ans;
+
+//     }
+// };
