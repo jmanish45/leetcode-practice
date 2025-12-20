@@ -1,23 +1,22 @@
 class Solution {
 public:
-    void backtrack(vector<int>& candidates, int target, vector<vector<int>>& result, vector<int>& current, int start) {
-        if (target == 0) { // Base case: Target is reached
-            result.push_back(current);
+    void backtrack(vector<int>& nums,vector<vector<int>>& ans, vector<int>& comb, int target , int idx) {
+        
+        if(target==0) {
+            ans.push_back(comb);
             return;
         }
-        if (target < 0) return; // Base case: Target is exceeded
+        if(target<0 || idx==nums.size()) return ;
+        comb.push_back(nums[idx]);
+        backtrack(nums, ans,  comb ,target-nums[idx], idx);
+        comb.pop_back();
+        backtrack(nums,  ans, comb, target, idx+1);
 
-        for (int i = start; i < candidates.size(); ++i) {
-            current.push_back(candidates[i]); // Choose the candidate
-            backtrack(candidates, target - candidates[i], result, current, i); // Explore further with the same candidate
-            current.pop_back(); // Undo the choice (backtrack)
-        }
     }
-
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> result;
-        vector<int> current;
-        backtrack(candidates, target, result, current, 0);
-        return result;
+    vector<vector<int>> combinationSum(vector<int>& nums, int target) {
+        vector<vector<int>> ans;
+        vector<int> comb;
+        backtrack(nums, ans, comb , target , 0);
+        return ans;
     }
 };
