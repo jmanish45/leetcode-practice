@@ -1,37 +1,36 @@
 class Solution {
 public:
-    bool ispalindrome(string s) {
-        int n = s.length();
-        int i=0;
-        int j = n-1;
+    int n;
+    vector<vector<string>> result;
+    bool  isPalind(string s) {
+        int i = 0;
+        int j = s.length()-1;
         while(i<j) {
             if(s[i]!=s[j]) return false;
             i++;
             j--;
         }
-
         return true;
+
     }
-    void palindromes(string s, vector<vector<string>> &ans, vector<string> &parts) {
-        if(s.size()==0) {
-            ans.push_back(parts);
+    void solve(string s, vector<string>& curr, int idx) {
+        if(idx==n) {
+            result.push_back(curr);
             return;
         }
-        for(int i = 0; i<s.size(); i++) {
-            string part = s.substr(0, i+1);
-            if(ispalindrome(part)) {
-                parts.push_back(part);
-                palindromes(s.substr(i+1), ans, parts);
-                parts.pop_back();
+        for(int i=idx; i<n; i++) {
+            string p =  s.substr(idx, i-idx+1);
+            if(isPalind(p)) {
+                curr.push_back(p);
+                solve(s, curr, i+1);
+                curr.pop_back();
             }
-            
         }
     }
-
     vector<vector<string>> partition(string s) {
-        vector<vector<string>> ans;
-        vector<string> parts;
-        palindromes( s, ans, parts);
-        return ans;
+        n = s.length();
+        vector<string> curr;
+        solve(s, curr, 0);
+        return result;
     }
 };
