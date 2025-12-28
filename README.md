@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/jmanish45/leetcode-practice/tree/master/1036-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jmanish45/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jmanish45/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/jmanish45/leetcode-practice/tree/master/0907-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 ## Stack
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jmanish45/leetcode-practice/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/jmanish45/leetcode-practice/tree/master/1036-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Design
 |  |
