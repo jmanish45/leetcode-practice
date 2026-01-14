@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/jmanish45/leetcode-practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/jmanish45/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/jmanish45/leetcode-practice/tree/master/0860-lemonade-change) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jmanish45/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/jmanish45/leetcode-practice/tree/master/0883-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/jmanish45/leetcode-practice/tree/master/0905-sort-array-by-parity) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/jmanish45/leetcode-practice/tree/master/0860-lemonade-change) |
 | [1975-maximum-matrix-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
