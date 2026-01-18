@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/jmanish45/leetcode-practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/jmanish45/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0840-magic-squares-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/jmanish45/leetcode-practice/tree/master/0860-lemonade-change) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jmanish45/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/jmanish45/leetcode-practice/tree/master/0883-car-fleet) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
+| [0840-magic-squares-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jmanish45/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jmanish45/leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jmanish45/leetcode-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/jmanish45/leetcode-practice/tree/master/0507-perfect-number) |
+| [0840-magic-squares-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jmanish45/leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/jmanish45/leetcode-practice/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jmanish45/leetcode-practice/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/jmanish45/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
