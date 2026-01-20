@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jmanish45/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jmanish45/leetcode-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jmanish45/leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/jmanish45/leetcode-practice/tree/master/3453-separate-squares-i) |
 ## Binary Search
 |  |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jmanish45/leetcode-practice/tree/master/0136-single-number) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
 |  |
 | ------- |
