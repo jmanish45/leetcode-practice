@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jmanish45/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jmanish45/leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jmanish45/leetcode-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jmanish45/leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jmanish45/leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jmanish45/leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jmanish45/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jmanish45/leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Database
 |  |
 | ------- |
