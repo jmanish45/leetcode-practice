@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/jmanish45/leetcode-practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/jmanish45/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/jmanish45/leetcode-practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/jmanish45/leetcode-practice/tree/master/0289-game-of-life) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jmanish45/leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jmanish45/leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
