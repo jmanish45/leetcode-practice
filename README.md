@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/jmanish45/leetcode-practice/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/jmanish45/leetcode-practice/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jmanish45/leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jmanish45/leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
