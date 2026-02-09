@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/jmanish45/leetcode-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/jmanish45/leetcode-practice/tree/master/0860-lemonade-change) |
+| [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jmanish45/leetcode-practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -627,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
