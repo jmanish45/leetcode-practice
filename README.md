@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/jmanish45/leetcode-practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jmanish45/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/jmanish45/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -642,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
