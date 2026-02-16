@@ -4,7 +4,7 @@ public:
         string binary(32, '0');
         int i = 0;
 
-        while(n > 0 && i < 32) {
+        while(n > 0 ) {
             int rem = n % 2;
             binary[i] = rem + '0';
             i++;
