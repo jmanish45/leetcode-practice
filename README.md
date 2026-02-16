@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jmanish45/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/jmanish45/leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jmanish45/leetcode-practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jmanish45/leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
