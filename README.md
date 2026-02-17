@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jmanish45/leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/jmanish45/leetcode-practice/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
 ## Sorting
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/jmanish45/leetcode-practice/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jmanish45/leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
