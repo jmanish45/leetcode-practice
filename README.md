@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2707-extra-characters-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2808-painting-the-walls](https://github.com/jmanish45/leetcode-practice/tree/master/2808-painting-the-walls) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jmanish45/leetcode-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jmanish45/leetcode-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Heap (Priority Queue)
