@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jmanish45/leetcode-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jmanish45/leetcode-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jmanish45/leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jmanish45/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
 | [1975-maximum-matrix-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jmanish45/leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jmanish45/leetcode-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/jmanish45/leetcode-practice/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
+| [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jmanish45/leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jmanish45/leetcode-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jmanish45/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
