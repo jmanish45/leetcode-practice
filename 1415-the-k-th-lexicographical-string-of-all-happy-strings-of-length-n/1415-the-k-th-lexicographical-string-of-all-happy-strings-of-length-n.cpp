@@ -1,14 +1,15 @@
 class Solution {
 public:
-    void solve(string &str, int n, vector<string> &happys) {
+    void solve(string &str, int n, int &count, int k,  string& happy) {
         if(str.length()==n) {
-            happys.push_back(str);
+            count++;
+            if(count==k) happy = str;
             return ;
         }
         for(char ch = 'a' ; ch<='c' ; ch++) {
             if(!str.empty() && str.back()==ch) continue;
             str.push_back(ch);  //  DO push the character
-            solve(str, n, happys);
+            solve(str, n, count, k,  happy);
             str.pop_back();
         }
 
@@ -16,9 +17,10 @@ public:
     }
     string getHappyString(int n, int k) {
         string str = "";
-        vector<string> happys;
-        solve(str, n, happys);
-        if(k>happys.size()) return "";
-        return happys[k-1];
+        string happy = "";
+        int count = 0;
+        solve(str, n, count, k,  happy);
+        
+        return happy;
     }
 };
