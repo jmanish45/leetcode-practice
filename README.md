@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/jmanish45/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/jmanish45/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/jmanish45/leetcode-practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/jmanish45/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jmanish45/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/jmanish45/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/jmanish45/leetcode-practice/tree/master/0860-lemonade-change) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jmanish45/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
