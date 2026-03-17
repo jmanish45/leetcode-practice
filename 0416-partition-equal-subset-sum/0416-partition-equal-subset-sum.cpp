@@ -1,26 +1,28 @@
 class Solution {
 public:
-    int dp[201][100001];
-    bool helper(int i, int target, int sum, vector<int>& nums) {
-        if(sum>target) return false;
-        
-        if(i>=nums.size()) {
-            if(sum == target) return true;
-            else return false;
+    int dp[10001][201];
+    bool solve(vector<int>& nums, int totsum , int idx) {
+        if(totsum==0) {
+        return  true; 
         }
-        if(dp[i][sum]!=-1) return dp[i][sum];
-        int take = helper(i+1, target, sum+nums[i], nums);
-        int skip = helper(i+1, target, sum, nums);
-        return dp[i][sum] = take || skip;
+        if(totsum<0 || idx>=nums.size()) {
+            return  false;
+        }
+        if(dp[totsum][idx]!=-1) return dp[totsum][idx];
+        int take = solve(nums, totsum-nums[idx], idx+1);
+        int leave = solve(nums, totsum, idx+1);
+
+        return dp[totsum][idx] = take || leave ;
+
+
     }
     bool canPartition(vector<int>& nums) {
-        int sum = 0;
-        memset(dp, -1, sizeof(dp));
-        for(int ele :nums) {
-            sum+=ele;
+        int totsum = 0;
+        for(int i = 0; i<nums.size(); i++) {
+            totsum+=nums[i];
         }
-        if(sum%2!=0) return false;
-        int target = sum/2;
-        return helper(0, target, 0, nums);
+        if(totsum%2!=0) return false;
+        memset(dp, -1, sizeof(dp));
+        return solve(nums, totsum/2, 0);
     }
 };
