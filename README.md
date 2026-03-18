@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jmanish45/leetcode-practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jmanish45/leetcode-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/jmanish45/leetcode-practice/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jmanish45/leetcode-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
