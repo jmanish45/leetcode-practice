@@ -12,8 +12,6 @@ public:
             solve(str, n, count, k,  happy);
             str.pop_back();
         }
-
-
     }
     string getHappyString(int n, int k) {
         string str = "";
