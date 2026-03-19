@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jmanish45/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jmanish45/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jmanish45/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jmanish45/leetcode-practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jmanish45/leetcode-practice/tree/master/0085-maximal-rectangle) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jmanish45/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jmanish45/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jmanish45/leetcode-practice/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jmanish45/leetcode-practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jmanish45/leetcode-practice/tree/master/0078-subsets) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jmanish45/leetcode-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/jmanish45/leetcode-practice/tree/master/0085-maximal-rectangle) |
