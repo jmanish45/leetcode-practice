@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jmanish45/leetcode-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/jmanish45/leetcode-practice/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/jmanish45/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/jmanish45/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jmanish45/leetcode-practice/tree/master/0290-word-pattern) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jmanish45/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/jmanish45/leetcode-practice/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/jmanish45/leetcode-practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/jmanish45/leetcode-practice/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/jmanish45/leetcode-practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/jmanish45/leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/jmanish45/leetcode-practice/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jmanish45/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/jmanish45/leetcode-practice/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/jmanish45/leetcode-practice/tree/master/0174-dungeon-game) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jmanish45/leetcode-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/jmanish45/leetcode-practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/jmanish45/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jmanish45/leetcode-practice/tree/master/0146-lru-cache) |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jmanish45/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/jmanish45/leetcode-practice/tree/master/0139-word-break) |
 | [2707-extra-characters-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2707-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
@@ -724,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jmanish45/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jmanish45/leetcode-practice/tree/master/0139-word-break) |
 ## Union-Find
 |  |
 | ------- |
