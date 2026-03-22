@@ -1,22 +1,28 @@
 class Solution {
 public:
-    vector<vector<int>> adj{{-1,0}, {1,0}, {0,1}, {0,-1}} ;
     int m, n;
-    bool find(vector<vector<char>>& board ,int i, int j, int idx, string word) {
-        if(idx==word.length()) return true;
-        if(i<0 || j<0 || i>=m || j>=n || board[i][j]=='$') {
+    bool solve(int i, int j , vector<vector<char>>& board, string& word, int p ) {
+        if(p==word.size()) {
+            return true;
+        }
+        if(i>=m || j>=n || i<0 || j<0 || board[i][j]=='$') {
             return false;
         }
-        if(board[i][j]!=word[idx]) return false;
+        
+        if(board[i][j]!=word[p]) {
+            return false;
+        }
+        
         char temp = board[i][j];
         board[i][j] = '$';
-        for(auto& a : adj) {
-            int new_i = i + a[0];
-            int new_j = j + a[1];  
-            if(find(board, new_i,  new_j, idx+1, word))  return true;
-        }
+        int right = solve(i,j+1,board, word, p+1);
+        int left = solve(i, j-1, board, word, p+1);
+        int up = solve(i-1, j, board, word, p+1);
+        int down = solve(i+1, j,  board, word, p+1);
+        
+        bool found = right || left || up || down ;
         board[i][j] = temp;
-        return false;
+        return found;
 
     }
     bool exist(vector<vector<char>>& board, string word) {
@@ -24,9 +30,7 @@ public:
         n = board[0].size();
         for(int i = 0; i<m; i++) {
             for(int j = 0; j<n; j++) {
-                if(board[i][j]==word[0] && find(board, i, j, 0, word)) {
-                    return true;
-                }
+                if(solve(i, j,  board, word, 0)) return true;
             }
         }
         return false;
