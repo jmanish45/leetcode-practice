@@ -30,7 +30,10 @@ public:
         n = board[0].size();
         for(int i = 0; i<m; i++) {
             for(int j = 0; j<n; j++) {
-                if(solve(i, j,  board, word, 0)) return true;
+                if(board[i][j]==word[0]) {
+                    if(solve(i, j,  board, word, 0)) return true;
+                }
+                
             }
         }
         return false;
