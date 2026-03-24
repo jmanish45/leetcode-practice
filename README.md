@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2808-painting-the-walls](https://github.com/jmanish45/leetcode-practice/tree/master/2808-painting-the-walls) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2906-construct-product-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jmanish45/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jmanish45/leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/jmanish45/leetcode-practice/tree/master/2596-check-knight-tour-configuration) |
+| [2906-construct-product-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/2906-construct-product-matrix) |
 ## Design
 |  |
 | ------- |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2906-construct-product-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jmanish45/leetcode-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
