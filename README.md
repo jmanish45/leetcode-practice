@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/jmanish45/leetcode-practice/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/jmanish45/leetcode-practice/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jmanish45/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jmanish45/leetcode-practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3640-trionic-array-ii) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jmanish45/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jmanish45/leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jmanish45/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/jmanish45/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/jmanish45/leetcode-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2906-construct-product-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jmanish45/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Design
 |  |
 | ------- |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2906-construct-product-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jmanish45/leetcode-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jmanish45/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Heap (Priority Queue)
