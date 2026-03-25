@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jmanish45/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jmanish45/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jmanish45/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jmanish45/leetcode-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
