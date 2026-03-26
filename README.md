@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/jmanish45/leetcode-practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/jmanish45/leetcode-practice/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/jmanish45/leetcode-practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jmanish45/leetcode-practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/jmanish45/leetcode-practice/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/jmanish45/leetcode-practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jmanish45/leetcode-practice/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
