@@ -27,7 +27,7 @@ public:
 
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
-
+        
         //we will start from last row and geneating all the possible paths but taking only the minimum costly one by selecting from the two options 
 
         vector<int> dp = triangle[n-1];  //last row
