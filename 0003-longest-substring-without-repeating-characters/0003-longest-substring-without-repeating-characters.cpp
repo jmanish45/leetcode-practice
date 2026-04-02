@@ -28,8 +28,6 @@ public:
             char c = s[i];
             while(mp[c]>0) {
                 mp[s[l]]--;
-                
-                
                 start = l;
                 l++;
             }
