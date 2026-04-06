@@ -12,7 +12,6 @@ public:
         if(board[i][j]!=word[p]) {
             return false;
         }
-        
         char temp = board[i][j];
         board[i][j] = '$';
         int right = solve(i,j+1,board, word, p+1);
@@ -32,8 +31,7 @@ public:
             for(int j = 0; j<n; j++) {
                 if(board[i][j]==word[0]) {
                     if(solve(i, j,  board, word, 0)) return true;
-                }
-                
+                }   
             }
         }
         return false;
