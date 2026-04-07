@@ -1,19 +1,21 @@
 class Solution {
 public:
-    int dp[2501][2501];
-    int solve(int idx, int prev, vector<int>& nums) {
-        if(idx>=nums.size()) return 0;
-        if(prev!=-1 && dp[idx][prev]!=-1) return dp[idx][prev] ;
+    int n ;
+    vector<vector<int>> dp;
+    int solve(int curr, int prev, vector<int>& nums) {
+        if(curr==n) return 0;
         int take = 0;
-        if(prev==-1 || nums[prev]<nums[idx] ) {
-            take = 1 + solve(idx+1, idx, nums);
+        if(prev!=-1 && dp[curr][prev]!=-1) return dp[curr][prev];
+        if(prev==-1 || nums[prev]<nums[curr]) {
+            take = 1 + solve(curr+1, curr, nums);
         }
-        int skip = solve(idx+1, prev, nums);
-        if(prev!=-1) dp[idx][prev] = max(skip, take);
-        return  max(skip, take) ;
+        int skip = solve(curr+1, prev, nums);
+        if(prev!=-1) dp[curr][prev] =  max(take, skip);
+        return max(take, skip);
     }
     int lengthOfLIS(vector<int>& nums) {
-        memset(dp, -1, sizeof(dp));
-        return solve(0,-1, nums);
+        n = nums.size();
+        dp.resize(n, vector<int>(n,-1));
+        return solve(0, -1, nums);
     }
 };
