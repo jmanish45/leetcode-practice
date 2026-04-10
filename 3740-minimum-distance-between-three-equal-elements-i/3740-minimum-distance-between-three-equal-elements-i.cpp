@@ -28,7 +28,7 @@ public:
                         check.push_back(j);
                     }
 
-                    // ✅ FIX: don't stop at first 3
+                  
                     if(check.size() >= 3) {
                         int sz = check.size();
 
