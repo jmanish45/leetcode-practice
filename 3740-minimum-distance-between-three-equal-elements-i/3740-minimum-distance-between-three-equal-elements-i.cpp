@@ -1,10 +1,10 @@
 class Solution {
 public:
     int solve(vector<int>& check) {
-        int a = abs(check[0]-check[1]);
-        int b = abs(check[1]-check[2]);
+        // int a = abs(check[0]-check[1]);
+        // int b = abs(check[1]-check[2]);
         int c = abs(check[0]-check[2]);
-        return a+b+c;
+        return 2*c;
     }
 
     int minimumDistance(vector<int>& nums) {
