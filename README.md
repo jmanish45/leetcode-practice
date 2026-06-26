@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/jmanish45/leetcode-practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jmanish45/leetcode-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/jmanish45/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jmanish45/leetcode-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/jmanish45/leetcode-practice/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/0912-sort-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/jmanish45/leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -801,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Rolling Hash
 |  |
 | ------- |
