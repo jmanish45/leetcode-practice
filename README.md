@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jmanish45/leetcode-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jmanish45/leetcode-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jmanish45/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jmanish45/leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/jmanish45/leetcode-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jmanish45/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jmanish45/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2101-detonate-the-maximum-bombs](https://github.com/jmanish45/leetcode-practice/tree/master/2101-detonate-the-maximum-bombs) |
