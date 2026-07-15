@@ -13,7 +13,7 @@ public:
         for(int l = 1; l<=n; l++) {
             string temp = s.substr(idx, l);
             if(st.find(temp)!=st.end() && solve(idx+l,s)) {
-                return dp[idx] = true;
+                return  true;
             }
         }
         return dp[idx] = false;
