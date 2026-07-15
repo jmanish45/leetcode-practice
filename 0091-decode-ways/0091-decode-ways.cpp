@@ -4,7 +4,7 @@ public:
     int dp[101];
     int solve(int i, string s) {
         if(dp[i]!=-1) return dp[i];
-        if(i==n) return dp[i]=1;
+        if(i==n) return 1;
         if(s[i]=='0') return 0;
         int result = solve(i+1,s);
         if(i+1<n) {
