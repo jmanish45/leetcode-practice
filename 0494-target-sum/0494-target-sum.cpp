@@ -35,16 +35,9 @@ public:
             return;
         }
 
-        //taking '+' adding the nums[idx];
-        sum+=nums[idx];
-        solve(idx+1, nums, sum, target);
-        sum-=nums[idx];  //undo changes
-
-        //taking '-' subtracting the nums[i]
-
-        sum-=nums[idx];
-        solve(idx+1, nums, sum, target);
-        sum+=nums[idx];  //undo changes 
+        
+        solve(idx + 1, nums, sum + nums[idx], target);
+        solve(idx + 1, nums, sum - nums[idx], target);
 
     }
     int findTargetSumWays(vector<int>& nums, int target) {
