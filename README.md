@@ -56,6 +56,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jmanish45/leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
 | [2707-extra-characters-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2707-extra-characters-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jmanish45/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/jmanish45/leetcode-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/jmanish45/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
@@ -409,6 +410,7 @@
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jmanish45/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jmanish45/leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3689-maximum-total-subarray-value-i](https://github.com/jmanish45/leetcode-practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Backtracking
@@ -546,6 +548,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/jmanish45/leetcode-practice/tree/master/2481-strictly-palindromic-number) |
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jmanish45/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jmanish45/leetcode-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jmanish45/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jmanish45/leetcode-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
