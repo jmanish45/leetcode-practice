@@ -57,6 +57,7 @@
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
 | [2707-extra-characters-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2707-extra-characters-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jmanish45/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/jmanish45/leetcode-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/jmanish45/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
@@ -411,6 +412,7 @@
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jmanish45/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jmanish45/leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3689-maximum-total-subarray-value-i](https://github.com/jmanish45/leetcode-practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Backtracking
@@ -466,6 +468,7 @@
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jmanish45/leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jmanish45/leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jmanish45/leetcode-practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
@@ -514,6 +517,7 @@
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
 | [2707-extra-characters-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jmanish45/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jmanish45/leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/jmanish45/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
@@ -565,6 +569,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jmanish45/leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jmanish45/leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/jmanish45/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
