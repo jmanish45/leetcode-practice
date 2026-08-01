@@ -4,9 +4,9 @@ public:
     vector<vector<int>> dp;
     int n;
     int solve(int idx, vector<int>& coins, int amount) {
+        if(amount==0) return 0;
         if(idx==n) {
-            if(amount==0) return 0;
-            else return INT_MAX;
+            return INT_MAX;
         }
         if(dp[idx][amount]!=-1) return dp[idx][amount];
         if((amount-coins[idx])<0) {
