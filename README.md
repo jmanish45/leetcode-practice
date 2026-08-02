@@ -80,6 +80,7 @@
 | [0139-word-break](https://github.com/jmanish45/leetcode-practice/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/jmanish45/leetcode-practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/jmanish45/leetcode-practice/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/jmanish45/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/jmanish45/leetcode-practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/jmanish45/leetcode-practice/tree/master/0322-coin-change) |
@@ -541,6 +542,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/jmanish45/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/jmanish45/leetcode-practice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/jmanish45/leetcode-practice/tree/master/0224-basic-calculator) |
+| [0279-perfect-squares](https://github.com/jmanish45/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jmanish45/leetcode-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/jmanish45/leetcode-practice/tree/master/0507-perfect-number) |
@@ -657,6 +659,7 @@
 | [0130-surrounded-regions](https://github.com/jmanish45/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jmanish45/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jmanish45/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/jmanish45/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/jmanish45/leetcode-practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jmanish45/leetcode-practice/tree/master/0547-number-of-provinces) |
