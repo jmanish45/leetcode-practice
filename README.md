@@ -69,6 +69,7 @@
 | [0045-jump-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jmanish45/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jmanish45/leetcode-practice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/jmanish45/leetcode-practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jmanish45/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jmanish45/leetcode-practice/tree/master/0072-edit-distance) |
@@ -543,6 +544,7 @@
 | [0002-add-two-numbers](https://github.com/jmanish45/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jmanish45/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/jmanish45/leetcode-practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/jmanish45/leetcode-practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jmanish45/leetcode-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jmanish45/leetcode-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jmanish45/leetcode-practice/tree/master/0070-climbing-stairs) |
@@ -847,6 +849,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jmanish45/leetcode-practice/tree/master/0062-unique-paths) |
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
 ## Bucket Sort
 |  |
