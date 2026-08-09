@@ -103,6 +103,7 @@
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/jmanish45/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jmanish45/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -307,6 +308,7 @@
 | [0994-rotting-oranges](https://github.com/jmanish45/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/jmanish45/leetcode-practice/tree/master/1036-rotting-oranges) |
+| [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jmanish45/leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/jmanish45/leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -567,6 +569,7 @@
 | [0877-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
+| [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jmanish45/leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jmanish45/leetcode-practice/tree/master/1390-four-divisors) |
 | [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
@@ -715,6 +718,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
+| [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -834,6 +838,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -925,4 +930,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
