@@ -107,6 +107,7 @@
 | [1143-longest-common-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jmanish45/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jmanish45/leetcode-practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -317,6 +318,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jmanish45/leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/jmanish45/leetcode-practice/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -572,6 +574,7 @@
 | [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jmanish45/leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jmanish45/leetcode-practice/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/jmanish45/leetcode-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jmanish45/leetcode-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -719,6 +722,7 @@
 | [0877-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0909-stone-game) |
 | [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -934,8 +938,10 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
