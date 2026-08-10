@@ -1,0 +1,34 @@
+class Solution {
+public:
+    int n;
+    vector<int> t;
+    int solve(int idx, vector<int>& stone) {
+        if(idx>=n) return 0;
+        if(t[idx]!=-1) return t[idx];
+        int result = stone[idx]-solve(idx+1, stone);
+        if(idx+1<n) {
+            result = max(result, stone[idx]+stone[idx+1] - solve(idx+2, stone));
+        }
+        if(idx+2<n) {
+            result = max(result, stone[idx]+stone[idx+1]+stone[idx+2]-solve(idx+3, stone));
+        }
+        return t[idx] = result;
+
+        
+    }
+    string stoneGameIII(vector<int>& stone) {
+        n = stone.size();
+        //will find the diff of the score of Alice and Bod
+        //diff = Alice - Bob
+        t.resize(n+1,-1);
+        int diff = solve(0,stone);
+        
+        if(diff>0) {
+            return "Alice";
+        }
+        else if(diff<0) {
+            return "Bob";
+        }
+        return "Tie";
+    }
+};
