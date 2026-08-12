@@ -279,6 +279,7 @@
 | [0474-ones-and-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/jmanish45/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/jmanish45/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
@@ -403,6 +404,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/jmanish45/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/jmanish45/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/jmanish45/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/jmanish45/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/jmanish45/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jmanish45/leetcode-practice/tree/master/0739-daily-temperatures) |
@@ -520,6 +522,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/jmanish45/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/jmanish45/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/jmanish45/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
@@ -815,6 +818,7 @@
 | [0042-trapping-rain-water](https://github.com/jmanish45/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jmanish45/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jmanish45/leetcode-practice/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/jmanish45/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jmanish45/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/jmanish45/leetcode-practice/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/jmanish45/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
