@@ -10,7 +10,7 @@ public:
         if(t[alice][i][M]!=-1) return t[alice][i][M];
         int result = (alice==1) ? -1 : INT_MAX;
         //initialise result = -1 to get Max from stones 
-        //initialise result = INT_MAX to get min from 
+        //initialise result = INT_MAX to get min from bob's turn
         int stones = 0; //starting stones from 0
         
         //now choose the X to get number of stones in your turn 
@@ -19,7 +19,6 @@ public:
             stones+=piles[i+x-1];
             if(alice) {
                 result = max(result, stones + solve(piles, 0, i+x, max(M,x)));
-
             }
             else {
                 result = min(result, solve(piles,1,i+x,max(M,x)));
