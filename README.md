@@ -406,6 +406,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jmanish45/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jmanish45/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jmanish45/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/jmanish45/leetcode-practice/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/jmanish45/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/jmanish45/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/jmanish45/leetcode-practice/tree/master/0496-next-greater-element-i) |
@@ -666,6 +667,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jmanish45/leetcode-practice/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/jmanish45/leetcode-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jmanish45/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jmanish45/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
