@@ -318,6 +318,7 @@
 | [1306-jump-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jmanish45/leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/jmanish45/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/jmanish45/leetcode-practice/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
@@ -437,6 +438,7 @@
 | [0860-lemonade-change](https://github.com/jmanish45/leetcode-practice/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/jmanish45/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/jmanish45/leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jmanish45/leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1975-maximum-matrix-sum) |
@@ -543,6 +545,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/jmanish45/leetcode-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/jmanish45/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/jmanish45/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jmanish45/leetcode-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
@@ -809,6 +812,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0980-unique-paths-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0980-unique-paths-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jmanish45/leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/jmanish45/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jmanish45/leetcode-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jmanish45/leetcode-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jmanish45/leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
