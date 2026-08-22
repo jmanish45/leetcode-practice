@@ -600,6 +600,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jmanish45/leetcode-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jmanish45/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jmanish45/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jmanish45/leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jmanish45/leetcode-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting
 |  |
