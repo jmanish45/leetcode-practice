@@ -594,6 +594,7 @@
 | [1390-four-divisors](https://github.com/jmanish45/leetcode-practice/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
+| [1925-count-square-sum-triples](https://github.com/jmanish45/leetcode-practice/tree/master/1925-count-square-sum-triples) |
 | [2101-detonate-the-maximum-bombs](https://github.com/jmanish45/leetcode-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jmanish45/leetcode-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -624,6 +625,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
+| [1925-count-square-sum-triples](https://github.com/jmanish45/leetcode-practice/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jmanish45/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jmanish45/leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jmanish45/leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
