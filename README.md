@@ -40,6 +40,7 @@
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/0761-special-binary-string) |
+| [0763-partition-labels](https://github.com/jmanish45/leetcode-practice/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/1143-longest-common-subsequence) |
@@ -138,6 +139,7 @@
 | [0283-move-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/jmanish45/leetcode-practice/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/jmanish45/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/2460-apply-operations-to-an-array) |
@@ -444,6 +446,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jmanish45/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/jmanish45/leetcode-practice/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/jmanish45/leetcode-practice/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -546,6 +549,7 @@
 | [0496-next-greater-element-i](https://github.com/jmanish45/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/jmanish45/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/jmanish45/leetcode-practice/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [0840-magic-squares-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/jmanish45/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
