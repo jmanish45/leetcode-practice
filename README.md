@@ -282,6 +282,7 @@
 | [0474-ones-and-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/jmanish45/leetcode-practice/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/jmanish45/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/jmanish45/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -844,6 +845,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/jmanish45/leetcode-practice/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/jmanish45/leetcode-practice/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/jmanish45/leetcode-practice/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/jmanish45/leetcode-practice/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/jmanish45/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jmanish45/leetcode-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
