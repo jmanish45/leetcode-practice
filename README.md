@@ -57,6 +57,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jmanish45/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/jmanish45/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jmanish45/leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
 | [2707-extra-characters-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2707-extra-characters-in-a-string) |
@@ -460,6 +461,7 @@
 | [1975-maximum-matrix-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jmanish45/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
+| [2405-optimal-partition-of-string](https://github.com/jmanish45/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jmanish45/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -569,6 +571,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jmanish45/leetcode-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/jmanish45/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jmanish45/leetcode-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
