@@ -169,6 +169,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jmanish45/leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/jmanish45/leetcode-practice/tree/master/2101-detonate-the-maximum-bombs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jmanish45/leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jmanish45/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/jmanish45/leetcode-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
@@ -222,6 +224,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jmanish45/leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
