@@ -139,6 +139,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/jmanish45/leetcode-practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jmanish45/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/jmanish45/leetcode-practice/tree/master/0763-partition-labels) |
@@ -277,6 +278,7 @@
 | [0260-single-number-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/jmanish45/leetcode-practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jmanish45/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/jmanish45/leetcode-practice/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/jmanish45/leetcode-practice/tree/master/0312-burst-balloons) |
@@ -406,6 +408,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/jmanish45/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -843,6 +846,7 @@
 | [0137-single-number-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/jmanish45/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/jmanish45/leetcode-practice/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/jmanish45/leetcode-practice/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
@@ -1011,4 +1015,12 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jmanish45/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jmanish45/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
