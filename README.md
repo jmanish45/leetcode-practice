@@ -676,6 +676,7 @@
 | [0196-delete-duplicate-emails](https://github.com/jmanish45/leetcode-practice/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jmanish45/leetcode-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1161-project-employees-i](https://github.com/jmanish45/leetcode-practice/tree/master/1161-project-employees-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/jmanish45/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/jmanish45/leetcode-practice/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Matrix
 |  |
