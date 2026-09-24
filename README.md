@@ -682,6 +682,7 @@
 | [1148-article-views-i](https://github.com/jmanish45/leetcode-practice/tree/master/1148-article-views-i) |
 | [1161-project-employees-i](https://github.com/jmanish45/leetcode-practice/tree/master/1161-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jmanish45/leetcode-practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jmanish45/leetcode-practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/jmanish45/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/jmanish45/leetcode-practice/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Matrix
