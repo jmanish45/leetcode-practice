@@ -1,5 +1,19 @@
 class Solution {
 public:
+    void bfs(unordered_map<int, vector<int>>& mp, vector<bool>& visited, int i) {
+        queue<int> q;
+        q.push(i);
+        visited[i] = true;
+        while(!q.empty()) {
+            int curr = q.front();
+            q.pop();
+            for(int &v : mp[i]) {
+                if(!visited[v]) {
+                    bfs(mp, visited, v);
+                }
+            }
+        }
+    }
     void dfs(unordered_map<int, vector<int>>& mp, vector<bool>& visited, int i) {
         visited[i] = true;
         for(auto& v : mp[i]) {
@@ -25,7 +39,7 @@ public:
         for(int i=0; i<n; i++) {
             if(!visited[i]) {
                 
-                dfs(mp, visited, i);
+                bfs(mp, visited, i);
                 count++;
             }
         }
