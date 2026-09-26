@@ -677,6 +677,7 @@
 | [0176-second-highest-salary](https://github.com/jmanish45/leetcode-practice/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/jmanish45/leetcode-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/jmanish45/leetcode-practice/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/jmanish45/leetcode-practice/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jmanish45/leetcode-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/jmanish45/leetcode-practice/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/jmanish45/leetcode-practice/tree/master/1068-product-sales-analysis-i) |
