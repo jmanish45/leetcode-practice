@@ -186,6 +186,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jmanish45/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jmanish45/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jmanish45/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jmanish45/leetcode-practice/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/jmanish45/leetcode-practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
@@ -753,6 +754,7 @@
 | [0130-surrounded-regions](https://github.com/jmanish45/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jmanish45/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jmanish45/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jmanish45/leetcode-practice/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/jmanish45/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/jmanish45/leetcode-practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
@@ -1006,6 +1008,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jmanish45/leetcode-practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/jmanish45/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [2101-detonate-the-maximum-bombs](https://github.com/jmanish45/leetcode-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jmanish45/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1031,4 +1034,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/jmanish45/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jmanish45/leetcode-practice/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jmanish45/leetcode-practice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
