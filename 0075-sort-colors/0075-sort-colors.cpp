@@ -6,15 +6,13 @@ public:
         int hi = nums.size()-1;
         while(mid<=hi){
             if (nums[mid]==2) {
-                int temp = nums[mid];
                 nums[mid] = nums[hi];
-                nums[hi] = temp;
+                nums[hi] = 2;
                 hi--;
             }
             else if(nums[mid]==0) {
-                int temp = nums[mid];
                 nums[mid] = nums[lo];
-                nums[lo] = temp;
+                nums[lo] = 0;
                 lo++;
                 mid++;
             }
