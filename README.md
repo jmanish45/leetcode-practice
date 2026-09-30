@@ -1054,4 +1054,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jmanish45/leetcode-practice/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
