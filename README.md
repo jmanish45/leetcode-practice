@@ -30,6 +30,7 @@
 | [0224-basic-calculator](https://github.com/jmanish45/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/jmanish45/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jmanish45/leetcode-practice/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/jmanish45/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jmanish45/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -516,6 +517,7 @@
 | [0090-subsets-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/jmanish45/leetcode-practice/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0494-target-sum) |
@@ -785,6 +787,7 @@
 | [0200-number-of-islands](https://github.com/jmanish45/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jmanish45/leetcode-practice/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/jmanish45/leetcode-practice/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jmanish45/leetcode-practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jmanish45/leetcode-practice/tree/master/0547-number-of-provinces) |
