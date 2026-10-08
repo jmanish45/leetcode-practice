@@ -46,6 +46,7 @@
 | [0763-partition-labels](https://github.com/jmanish45/leetcode-practice/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/jmanish45/leetcode-practice/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jmanish45/leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jmanish45/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
@@ -463,6 +464,7 @@
 | [0883-car-fleet](https://github.com/jmanish45/leetcode-practice/tree/master/0883-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jmanish45/leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0943-sum-of-subarray-minimums](https://github.com/jmanish45/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jmanish45/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jmanish45/leetcode-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
@@ -1094,4 +1096,5 @@
 | [0022-generate-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jmanish45/leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
