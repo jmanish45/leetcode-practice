@@ -92,6 +92,7 @@
 | [0120-triangle](https://github.com/jmanish45/leetcode-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jmanish45/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jmanish45/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jmanish45/leetcode-practice/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/jmanish45/leetcode-practice/tree/master/0174-dungeon-game) |
@@ -173,6 +174,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jmanish45/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jmanish45/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -197,6 +199,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/jmanish45/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jmanish45/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jmanish45/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
@@ -230,6 +233,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jmanish45/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jmanish45/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jmanish45/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1111,4 +1115,8 @@
 | [0032-longest-valid-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jmanish45/leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/jmanish45/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
