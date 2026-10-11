@@ -154,6 +154,7 @@
 | [0283-move-zeroes](https://github.com/jmanish45/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jmanish45/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/jmanish45/leetcode-practice/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/jmanish45/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/jmanish45/leetcode-practice/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/jmanish45/leetcode-practice/tree/master/0905-sort-array-by-parity) |
@@ -432,6 +433,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jmanish45/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/jmanish45/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jmanish45/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/jmanish45/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -653,6 +655,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jmanish45/leetcode-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/jmanish45/leetcode-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/jmanish45/leetcode-practice/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/jmanish45/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/jmanish45/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/jmanish45/leetcode-practice/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/jmanish45/leetcode-practice/tree/master/0900-reordered-power-of-2) |
