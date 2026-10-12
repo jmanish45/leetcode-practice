@@ -24,15 +24,13 @@ public:
         nthlevel(root->left, curr+1, lev, ans);
         nthlevel(root->right, curr+1, lev, ans);
     }
-    void level(TreeNode* root, vector<int>& ans) {
-        int n = ans.size();
-        for(int i = 0; i<n; i++) {
+    vector<int> rightSideView(TreeNode* root) {
+        int n = levels(root);
+        vector<int> ans(n, 0);
+        for(int i=0; i<n; i++) {
             nthlevel(root, 0, i, ans);
         }
-    }
-    vector<int> rightSideView(TreeNode* root) {
-        vector<int> ans(levels(root), 0);
-        level(root, ans);
+        
         return ans;
     }
 };
