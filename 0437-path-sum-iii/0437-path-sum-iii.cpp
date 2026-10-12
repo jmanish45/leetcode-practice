@@ -15,8 +15,7 @@ public:
         if(!root) return ;
         sum+=(long long) root->val;
         if(sum==targetSum) {
-            count++;
-            
+            count++;    
         }
         solve(root->left, count, targetSum, sum);
         solve(root->right, count, targetSum, sum);
@@ -24,7 +23,7 @@ public:
     int pathSum(TreeNode* root, int targetSum) {
         int count = 0;
         if(!root) return  0;
-        solve(root, count, (long long) targetSum, 0);
+        solve(root, count, targetSum, 0);
         count+= (pathSum(root->left, targetSum) + pathSum(root->right, targetSum));
         return count;
     }
