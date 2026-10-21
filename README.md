@@ -72,6 +72,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jmanish45/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3612-process-string-with-special-operations-i](https://github.com/jmanish45/leetcode-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/jmanish45/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
