@@ -375,6 +375,7 @@
 | [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2008-maximum-earnings-from-taxi](https://github.com/jmanish45/leetcode-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/jmanish45/leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jmanish45/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jmanish45/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/jmanish45/leetcode-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jmanish45/leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -451,6 +452,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2008-maximum-earnings-from-taxi](https://github.com/jmanish45/leetcode-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/jmanish45/leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jmanish45/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jmanish45/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3453-separate-squares-i](https://github.com/jmanish45/leetcode-practice/tree/master/3453-separate-squares-i) |
@@ -571,6 +573,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jmanish45/leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2008-maximum-earnings-from-taxi](https://github.com/jmanish45/leetcode-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/jmanish45/leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jmanish45/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/jmanish45/leetcode-practice/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2245-destroying-asteroids](https://github.com/jmanish45/leetcode-practice/tree/master/2245-destroying-asteroids) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
