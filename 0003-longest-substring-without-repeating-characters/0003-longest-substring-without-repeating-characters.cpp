@@ -1,11 +1,11 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int n = s.length();
+        int m = s.length();
         unordered_map<char,int> mp;
         int l = 0;
         int maxlen = 0;
-        for(int i=0; i<n; i++) {
+        for(int i=0; i<m; i++) {
             char c = s[i];
             while(mp[c]>0) {
                 mp[s[l]]--;
