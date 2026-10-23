@@ -1126,4 +1126,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jmanish45/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
