@@ -10,7 +10,7 @@ public:
                 mincost = prices[i];
             }
             profit = prices[i] - mincost;
-            if(profit>maxprofit) maxprofit = profit;
+            maxprofit = max(maxprofit, profit);
 
         }
         return maxprofit;
