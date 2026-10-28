@@ -889,6 +889,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jmanish45/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/jmanish45/leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jmanish45/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jmanish45/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -959,6 +960,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jmanish45/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/jmanish45/leetcode-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/jmanish45/leetcode-practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/jmanish45/leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/jmanish45/leetcode-practice/tree/master/0224-basic-calculator) |
