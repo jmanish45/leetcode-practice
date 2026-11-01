@@ -113,6 +113,7 @@
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/jmanish45/leetcode-practice/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/jmanish45/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jmanish45/leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/jmanish45/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -335,6 +336,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/jmanish45/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/jmanish45/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/jmanish45/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/jmanish45/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/jmanish45/leetcode-practice/tree/master/0733-flood-fill) |
@@ -1067,6 +1069,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/jmanish45/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1163,4 +1166,9 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/jmanish45/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
