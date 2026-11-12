@@ -424,6 +424,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jmanish45/leetcode-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jmanish45/leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jmanish45/leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jmanish45/leetcode-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jmanish45/leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/jmanish45/leetcode-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/jmanish45/leetcode-practice/tree/master/3379-transformed-array) |
