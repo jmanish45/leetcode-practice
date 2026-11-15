@@ -129,6 +129,7 @@
 | [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jmanish45/leetcode-practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jmanish45/leetcode-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2008-maximum-earnings-from-taxi](https://github.com/jmanish45/leetcode-practice/tree/master/2008-maximum-earnings-from-taxi) |
@@ -379,6 +380,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jmanish45/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jmanish45/leetcode-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jmanish45/leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -705,6 +707,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/jmanish45/leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jmanish45/leetcode-practice/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/jmanish45/leetcode-practice/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1902-car-fleet-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1902-car-fleet-ii) |
 | [1925-count-square-sum-triples](https://github.com/jmanish45/leetcode-practice/tree/master/1925-count-square-sum-triples) |
@@ -1021,6 +1024,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/jmanish45/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/jmanish45/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jmanish45/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jmanish45/leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jmanish45/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2439-minimize-maximum-of-array](https://github.com/jmanish45/leetcode-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/jmanish45/leetcode-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
