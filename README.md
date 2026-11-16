@@ -62,6 +62,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jmanish45/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/jmanish45/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/jmanish45/leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-count-anagrams](https://github.com/jmanish45/leetcode-practice/tree/master/2605-count-anagrams) |
@@ -978,6 +979,7 @@
 | [0657-robot-return-to-origin](https://github.com/jmanish45/leetcode-practice/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/jmanish45/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jmanish45/leetcode-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/jmanish45/leetcode-practice/tree/master/2460-apply-operations-to-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/jmanish45/leetcode-practice/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jmanish45/leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
