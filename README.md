@@ -61,6 +61,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jmanish45/leetcode-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jmanish45/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/jmanish45/leetcode-practice/tree/master/1980-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jmanish45/leetcode-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jmanish45/leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/jmanish45/leetcode-practice/tree/master/2405-optimal-partition-of-string) |
